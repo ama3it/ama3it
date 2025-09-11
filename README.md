@@ -14,7 +14,6 @@ Most of my work lives at the intersection of **TypeScript** and **Python**—fro
 ---
 
 ## 🛠️ Tech Stack
-## 🛠️ Tech Stack
 
 **Languages**  
 - TypeScript • JavaScript (ES6+) • Python (3.x) • Java (Spring ecosystem) • SQL  
@@ -53,7 +52,7 @@ Most of my work lives at the intersection of **TypeScript** and **Python**—fro
 ## 🤝 Let’s Connect
 I’m always open to collaborating on meaningful projects, sharing knowledge, or just geeking out about tech.  
 
-📫 Reach me here on GitHub or [LinkedIn](https://www.linkedin.com/in/ama3it) (add your link).  
+📫 Reach me here on [GitHub](https://github.com/ama3it) or [LinkedIn](https://www.linkedin.com/in/ama3it) .  
 
 ---
 
